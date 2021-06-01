@@ -4,7 +4,7 @@ data: This folder contains the raw data as extracted from the Office of National
 
 graph: This folder contains two graphs. One that has all activities accounted for and one that has excluded all activities that had undergone a limited percentage change in time spent on doing them.
 
-lockdon_activities.Rmd: The R markdown file that explains the data origins, research question, data preparation, visualisation and summary. 
+lockdon_activities.Rmd: The R markdown file that contains the data origins, research question, data preparation, visualisation and summary. 
 
 lockdon_activities.docx: A word document produced using the R markdown file.
 
