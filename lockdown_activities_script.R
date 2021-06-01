@@ -158,20 +158,3 @@ ggplot(df3, aes(y = time_ch, x = activity, fill = income)) +
        caption = "Source: Office of National Statistics")
 ggsave(here("graph", "bar_chart.png"))
   
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
